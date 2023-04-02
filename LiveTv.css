@@ -1,0 +1,128 @@
+ .u-section-1 {
+  background-image: linear-gradient(#f1c50e, #370357);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 304px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 295px;
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 9px;
+  background-image: linear-gradient(#f1c50e, #370357);
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 12px 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 257px;
+  width: 1115px;
+  margin: 8px auto 0;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 39px;
+  margin: -55px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 915px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-custom-html-1 {
+    width: 795px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-custom-html-1 {
+    width: 320px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(rgba(73,7,129,0.96), #f1c50e);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-2 .u-video-1 {
+  width: 868px;
+  height: 488px;
+  margin: 72px 122px 39px auto;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-video-1 {
+    margin-right: 72px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 573px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 820px;
+    height: 461px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 600px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 540px;
+    height: 304px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 303px;
+  }
+
+  .u-section-2 .u-video-1 {
+    height: 189px;
+    margin-bottom: 42px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
